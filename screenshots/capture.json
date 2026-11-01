@@ -1,0 +1,48 @@
+{
+  "note": "Logged in on the test account, 8 Oct 2026 (and the Rewards panel again on 28 Oct and 1 Nov 2026): the bet controls during the first bet, the Crash tile and the Rewards panel after the last bet. Times are the saved-file times of the original screenshots. The account username is masked.",
+  "files": {
+    "zero-edge-badge-2026-10-08.png": {
+      "sha256": "796773c046136b72d15d76d0bba8866907ef6ba9fd5bb16edf070e653c6f4e5f",
+      "sourceSha256": "d4ce80d790843f28e1ba2fc4f11d281cf3e9e454afacab2aeee9d964453f6b32",
+      "crop": "855x75+355+335",
+      "edit": "cropped to the Crash tile, below the live bets list",
+      "savedUtc": "2026-10-08T22:51:11Z",
+      "shows": "the Crash tile with its 100% badge, logged in"
+    },
+    "autobet-panel-2026-10-08.png": {
+      "sha256": "2cd7e3c6c8fa5411e58f24e47316ceca1211538353578a565aee5b87b834a03a",
+      "sourceSha256": "6ddeffc0d32511637a13077db698c7f45835646130959f837b773dd70a604ef1",
+      "crop": "580x232+630+178",
+      "edit": "cropped to the bet controls, away from the live bets list",
+      "savedUtc": "2026-10-08T21:58:53Z",
+      "shows": "during the first 1.50x bet: Bet Amount 1.00, Cashout at X1.50, Auto bet on (\"Stop auto bet\"), Your bet 1.00, Potential 1.50"
+    },
+    "rewards-panel-2026-10-08.jpg": {
+      "sha256": "acf2f9419db8c65cb41a7f3419ee4848dfd0cb664ff38024302dcbd4a55f11fd",
+      "sourceSha256": "acf2f9419db8c65cb41a7f3419ee4848dfd0cb664ff38024302dcbd4a55f11fd",
+      "edit": null,
+      "savedUtc": "2026-10-08T22:51:11Z",
+      "shows": "Instant Rakeback \"Claim $1.01\"; Weekly \"3d 1h\" and Monthly \"23d 1h\", both \"Not available yet\"; \"Your Progress • 0%\", \"Unranked\", \"Total XP: 1\""
+    },
+    "rewards-panel-2026-10-28.jpg": {
+      "sha256": "7bfe49cbb893594a8f176dbf01a8184420385b3794047c309a043577332dce3a",
+      "sourceSha256": "7d3d390461bf45cc86eb4cea37298e4b684bec155faea0424ff72b451a7275f2",
+      "crop": "860x340+352+52",
+      "edit": "cropped to the Rewards panel, below the header (username and balance)",
+      "savedUtc": "2026-10-28T13:52:58Z",
+      "shows": "Instant Rakeback \"Claim $1.01\"; Weekly \"4d 10h\" and Monthly \"3d 10h\", both \"Not available yet\"; \"Your Progress • 0%\", \"Unranked\", \"Total XP: 1\"",
+      "sourceHeld": "privately; captured on 28 Oct 2026, after the archive above was sealed, so it is not inside that archive"
+    },
+    "rewards-panel-2026-11-01.png": {
+      "sha256": "e4538d2619adcd73a65250f57ade6b74de2dc0ac0fd1ab5d676d2f99b576b846",
+      "sourceSha256": "9093a1f7f08c5b4750dfa35c489576b8412e25882ac2ab6bfc2a83ddd7c87a4f",
+      "crop": "2846x1160+0+140",
+      "edit": "cropped to the Rewards panel, below the header (username and balance)",
+      "savedUtc": null,
+      "timeUtcFromCountdown": "2026-11-01T05:14:25Z (the Weekly countdown reads 18:45:35 to the 2026-11-02T00:00Z reset; the Monthly countdown, 29d 18h, agrees)",
+      "shows": "Instant Rakeback \"Claim $1.01\"; Weekly \"18:45:35\" and Monthly \"29d 18h\", both \"Not available yet\"; \"Your Progress • 0%\", \"Unranked\", \"Total XP: 1\"",
+      "sourceHeld": "privately; captured on 1 Nov 2026, after the archive above was sealed, so it is not inside that archive"
+    }
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
