@@ -1,0 +1,81 @@
+{
+  "surface": "blog-100-rtp",
+  "url": "https://gamdom.com/blog/gamdom-originals-100-rtp",
+  "loggedIn": false,
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T13:24:03.621Z",
+    "title": "Play ALL Gamdom Originals Games at 100% RTP"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:42:20.976Z",
+    "httpStatus": 200,
+    "title": "Play ALL Gamdom Originals Games at 100% RTP",
+    "rule": "every line of the rendered page text matching /rtp|return to player|100%|99%|zero.?edge|house edge|\\$5,?000|\\$5k|50,?000|\\$50k|rakeback|rake back|per day|daily/i, whitespace normalised, compared line for line between the two captures",
+    "claimLinesFirstSeen": 25,
+    "claimLinesConfirmed": 25,
+    "identical": true
+  },
+  "claimLines": [
+    "Play ALL Gamdom Originals Games at 100% RTP",
+    "Get ready to play all Gamdom Originals games like Dice, Mines, Plinko, Keno & Crash at 100% RTP. Instant rakeback on your first $5k wagered daily.",
+    "The world of crypto gaming just got a revolutionary upgrade. All of our Gamdom Originals are now running at 100% RTP.",
+    "That means zero house edge and maximum returns. The best value you'll find anywhere in crypto gaming.",
+    "Gamdom Originals RTP Boost – 100% Returns",
+    "RTP, or Return to Player, is a key concept in casino gaming. It represents the percentage of wagers a game is designed to pay back to players over time. For example, a 97% RTP game would return $97 for every $100 wagered, on average.",
+    "With this update, select Gamdom Originals now run at 100% RTP:",
+    "✅ 100% RTP on all Originals",
+    "✅ Zero house edge",
+    "Compared to traditional online casinos, which usually sit between 95–97% RTP, Gamdom Originals now deliver:",
+    "True 100% returns",
+    "Zero house edge",
+    "The highest RTP in crypto gaming",
+    "With 100% RTP now live, there's never been a better time to dive into the world of Gamdom Originals. These exclusive titles offer experiences you simply won't find anywhere else.",
+    "With its 100% RTP, Gamdom Crash is now more rewarding than ever, giving you extended play and bigger potential wins with every round.",
+    "Now boosted to an incredible 100% RTP, Gamdom Dice offers some of the best returns you’ll find in online gaming.",
+    "Now running at an outstanding 100% RTP, Gamdom Mines delivers more extended play and more substantial returns on every wager.",
+    "Now boosted to a massive 100% RTP, Gamdom Plinko offers some of the best returns anywhere online.",
+    "Now running at 100% RTP, Gamdom Roulette offers stronger value than traditional versions found elsewhere online.",
+    "Now boosted to 100% RTP, Gamdom Keno delivers some of the best returns available in online gaming.",
+    "Now running at 100% RTP, Gamdom Hi-Lo gives you stronger returns than traditional versions found elsewhere.",
+    "Now running at a powerful 100% RTP, Gamdom Pocket Dice offers excellent value alongside the chance to win up to $1,000,000 on a single roll.",
+    "Now running at an industry-leading 100% RTP, Gamdom Limbo delivers instant results, complete control, and the potential for massive payouts up to $1,000,000 on a single bet.",
+    "Now with 100% RTP across the entire line up, these titles deliver a level of value you won't find anywhere else in crypto gaming.",
+    "Whether you're uncovering gems in Mines, watching numbers drop in Keno, or testing your instincts in Dice, select Originals now offer zero house edge and maximum returns on every bet."
+  ],
+  "files": {
+    "page-text-2026-09-19.txt": {
+      "sha256": "831a6cf2ba1c8e26b1f61a1beb100e3e00ca03d4aea7d2053df5a35c2fa125f1",
+      "sourceSha256": "3b5f4f34a9fd3a41bddca28f0c2b1362ad8598673bd6e214ccb98389b4ce2acb",
+      "edit": null
+    },
+    "page-text-2026-10-09.txt": {
+      "sha256": "0d1b5a6bdd33eee2eb142143d0b53e1a5579a172f2e63718556f9e47bbde2ca1",
+      "sourceSha256": "0d1b5a6bdd33eee2eb142143d0b53e1a5579a172f2e63718556f9e47bbde2ca1",
+      "edit": null
+    },
+    "screenshot-2026-09-19.png": {
+      "sha256": "498818bed0dc4643c5b46762b36120d0ee069c027a9fe5e38fafa784dc016353",
+      "sourceSha256": "498818bed0dc4643c5b46762b36120d0ee069c027a9fe5e38fafa784dc016353",
+      "edit": null
+    },
+    "screenshot-2026-10-09.png": {
+      "sha256": "2b5bde57afbf81d507cb5b577edffd03dfeb1f18e34f82fecd616864357fd0e1",
+      "sourceSha256": "2b5bde57afbf81d507cb5b577edffd03dfeb1f18e34f82fecd616864357fd0e1",
+      "edit": null
+    },
+    "headline-2026-10-09.png": {
+      "sha256": "6d9737efa63754f850140b53ee1bb6f399b4670937043a8da3bb54c7bc1ebebb",
+      "sourceSha256": "6d9737efa63754f850140b53ee1bb6f399b4670937043a8da3bb54c7bc1ebebb",
+      "edit": null
+    },
+    "body-2026-10-09.png": {
+      "sha256": "a4148984289e787b3e27d679b690ca19ab8979459a6eae45c3d1669f6b2b31c6",
+      "sourceSha256": "a4148984289e787b3e27d679b690ca19ab8979459a6eae45c3d1669f6b2b31c6",
+      "edit": null
+    }
+  },
+  "withheldInPrivateArchive": {
+    "page.html (9 Oct)": "96b909921399fc824df54a3fa36354aeb7f39e8e960904fa21eadf5145fef0e3"
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
