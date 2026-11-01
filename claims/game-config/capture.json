@@ -1,0 +1,50 @@
+{
+  "surface": "game-config",
+  "url": "POST https://gamdom.com/client-api/gameConfigs/getGameConfigs (requested by Gamdom's own crash page as it loads)",
+  "internal_crash": {
+    "game_code": "internal_crash",
+    "rtp": 99,
+    "house_edge": 1,
+    "min_bet": 0.01,
+    "max_bet": 100000,
+    "max_win": 500000
+  },
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T11:48 (from the capture file name)",
+    "loggedIn": false,
+    "file": "getGameConfigs-2026-09-19.json"
+  },
+  "loggedInCheck": {
+    "firstReadUtc": "2026-10-08T21:02:45.929Z",
+    "reads": 7,
+    "allIdentical": true,
+    "identicalToLoggedOut19Sep": true,
+    "file": "loggedin-check-2026-10-08.json"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:41:40.094Z",
+    "httpStatus": 200,
+    "how": "response observed as the logged-out crash page loaded it",
+    "internal_crash_identical": true,
+    "file": "getGameConfigs-2026-10-09.json"
+  },
+  "files": {
+    "getGameConfigs-2026-09-19.json": {
+      "sha256": "19daf17ef4c4ae09c2cffbad870e0a77784389ecf4aab5492b610d19afb23337",
+      "sourceSha256": "19daf17ef4c4ae09c2cffbad870e0a77784389ecf4aab5492b610d19afb23337",
+      "edit": null
+    },
+    "getGameConfigs-2026-10-09.json": {
+      "sha256": "19daf17ef4c4ae09c2cffbad870e0a77784389ecf4aab5492b610d19afb23337",
+      "sourceSha256": "19daf17ef4c4ae09c2cffbad870e0a77784389ecf4aab5492b610d19afb23337",
+      "edit": null
+    },
+    "loggedin-check-2026-10-08.json": {
+      "sha256": "b3908d0fdd5bcaa420a6bcd68ab3f5b1bd5ce7ad1a8cad4966f452a8be037d1e",
+      "sourceSha256": "b3908d0fdd5bcaa420a6bcd68ab3f5b1bd5ce7ad1a8cad4966f452a8be037d1e",
+      "edit": null,
+      "what": "summary of the 7 logged-in getGameConfigs reads of 8 Oct 2026, produced from the session log"
+    }
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
