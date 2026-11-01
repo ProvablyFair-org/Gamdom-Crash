@@ -1,0 +1,58 @@
+{
+  "surface": "rewards-guide",
+  "url": "https://gamdom.com/blog/complete-guide-to-gamdom-rewards",
+  "loggedIn": false,
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T13:25:36.055Z",
+    "title": "A guide to Gamdom’s rewards and promotions"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:42:34.585Z",
+    "httpStatus": 200,
+    "title": "A guide to Gamdom’s rewards and promotions",
+    "rule": "every line of the rendered page text matching /rtp|return to player|100%|99%|zero.?edge|house edge|\\$5,?000|\\$5k|50,?000|\\$50k|rakeback|rake back|per day|daily/i, whitespace normalised, compared line for line between the two captures",
+    "claimLinesFirstSeen": 7,
+    "claimLinesConfirmed": 7,
+    "identical": true
+  },
+  "claimLines": [
+    "Instant, Weekly, and Monthly Rakeback: Stay consistent to enjoy regular cashback benefits.",
+    "Silver: Progression rewards ramp up, offering better rakeback and surprises.",
+    "Rakeback Breakdown",
+    "Instant Rakeback: Claim immediate cashback for a seamless experience.",
+    "Weekly Rakeback: Incentivises regular play with recurring cashback.",
+    "Monthly Rakeback: A cumulative reward that reflects long-term activity.",
+    "Claim Rakeback Frequently: While rakeback rewards don’t expire, claiming them regularly ensures you can enjoy their benefits sooner."
+  ],
+  "files": {
+    "page-text-2026-09-19.txt": {
+      "sha256": "a354ab89787a3159e9564e1192e5793d13ffc19898ecaee185710e82dd94b709",
+      "sourceSha256": "6ebfdcb77e2465a078a0d5003299f667d49c7a5774797c7b078adbeb9c1fab8c",
+      "edit": null
+    },
+    "page-text-2026-10-09.txt": {
+      "sha256": "a8a665e2e6c18a417f0cac71f79ea680f3021b1b4331f15a32b18749bf04d84e",
+      "sourceSha256": "a8a665e2e6c18a417f0cac71f79ea680f3021b1b4331f15a32b18749bf04d84e",
+      "edit": null
+    },
+    "screenshot-2026-09-19.png": {
+      "sha256": "f51a9edac79e0786cdc81acf358e3bcbc264550c3b2f137c3c29a4fbe5b60820",
+      "sourceSha256": "f51a9edac79e0786cdc81acf358e3bcbc264550c3b2f137c3c29a4fbe5b60820",
+      "edit": null
+    },
+    "screenshot-2026-10-09.png": {
+      "sha256": "895a115bf827802000194faedd4a58b6cf41ea7b6f5b0444a2ed31d7fb0e9994",
+      "sourceSha256": "895a115bf827802000194faedd4a58b6cf41ea7b6f5b0444a2ed31d7fb0e9994",
+      "edit": null
+    },
+    "rakeback-breakdown-2026-10-09.png": {
+      "sha256": "abc2d6b2e603674390d5eb8d6c82c75874925ec12e5e76f383dc72151e2a7c62",
+      "sourceSha256": "abc2d6b2e603674390d5eb8d6c82c75874925ec12e5e76f383dc72151e2a7c62",
+      "edit": null
+    }
+  },
+  "withheldInPrivateArchive": {
+    "page.html (9 Oct)": "4beb19982a2622af48f0006ade97725a2774add0b1785743f2f1b3c973c5c9ba"
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
