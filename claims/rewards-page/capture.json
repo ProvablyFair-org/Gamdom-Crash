@@ -1,0 +1,55 @@
+{
+  "surface": "rewards-page",
+  "url": "https://gamdom.com/rewards",
+  "loggedIn": false,
+  "firstSeen": {
+    "capturedUtc": "2026-09-20T17:27:54.497Z",
+    "title": "Discover Our Amazing Rewards As Rakeback & Cashback"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:42:41.927Z",
+    "httpStatus": 200,
+    "title": "Discover Our Amazing Rewards As Rakeback & Cashback",
+    "rule": "every line of the rendered page text matching /rtp|return to player|100%|99%|zero.?edge|house edge|\\$5,?000|\\$5k|50,?000|\\$50k|rakeback|rake back|per day|daily/i, whitespace normalised, compared line for line between the two captures",
+    "claimLinesFirstSeen": 14,
+    "claimLinesConfirmed": 14,
+    "identical": true
+  },
+  "claimLines": [
+    "What is Rakeback?",
+    "Rakeback rewards you for your bets in real time, calculated per bet rather than as a flat percentage of your total wagering.",
+    "How is Rakeback calculated?",
+    "Rakeback is based on multiple factors like your bet size, game RTP, and house edge, with each bet contributing individually to your total rewards.",
+    "How do I activate the 15% Instant Rakeback?",
+    "When can I claim Instant Rakeback?",
+    "Instant Rakeback becomes claimable as soon as you reach the minimum amount, with no expiry once unlocked.",
+    "Do I earn Rakeback while using a bonus?",
+    "No. Rakeback isn't generated while you're completing wager requirements from deposit bonuses.",
+    "At Gamdom, every bet you place earns you something back. Our Rewards program is designed to reward you consistently — through Rakeback, Cashback, and a progression system that gets more valuable the more you play.",
+    "Rakeback & Cashback, working together",
+    "Rakeback returns a percentage of your wagers back to you as you play, while Cashback covers a portion of your losses over time. Together, they make sure you're always getting value from your time on the platform, regardless of how a session goes.",
+    "As your activity grows, so do your rewards. Moving up through Gamdom's reward tiers unlocks better Rakeback rates, higher Cashback percentages, and a 25% rewards boost — giving you more reason to keep playing and more value at every level.",
+    "Your Rakeback balance and Cashback earnings are always visible on the Rewards page. Redeem when it suits you and keep track of your progress toward the next tier — all in one place."
+  ],
+  "files": {
+    "page-text-2026-09-20.txt": {
+      "sha256": "516a3e868b6ad2c1bab4db238171f2734fdfb78c59c13766a1f47a16c988b6bb",
+      "sourceSha256": "8fea9e8ba3854fa5859919a7079366845b864e41d62e974f11eb66ef9131fb21",
+      "edit": null
+    },
+    "page-text-2026-10-09.txt": {
+      "sha256": "84ec6bfe6eda365e99816b48bded8147a5afad110ad3a9252cd0f72959654228",
+      "sourceSha256": "84ec6bfe6eda365e99816b48bded8147a5afad110ad3a9252cd0f72959654228",
+      "edit": null
+    },
+    "screenshot-2026-10-09.png": {
+      "sha256": "58390be52e9080736ef017d82df09a1c7c4678d30534caf024320699c2943069",
+      "sourceSha256": "58390be52e9080736ef017d82df09a1c7c4678d30534caf024320699c2943069",
+      "edit": null
+    }
+  },
+  "withheldInPrivateArchive": {
+    "page.html (9 Oct)": "c948cfbd94dc142cac70662a0606bad2a3ba6a5633fe15916dff8f1116a8f42e"
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
