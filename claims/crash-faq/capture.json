@@ -1,0 +1,26 @@
+{
+  "surface": "crash-faq",
+  "url": "https://gamdom.com/crash",
+  "loggedIn": false,
+  "note": "the FAQ block on the crash page; the full page text is in ../crash-page/",
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T11:47:52.686Z"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:41:49.462Z",
+    "identical": true
+  },
+  "entry": {
+    "question": "What is the RTP of Gamdom Crash?",
+    "answer": "100% for the first $5,000 in wagers, then 99% thereafter, giving a house edge of 1% beyond the Zero Edge limit."
+  },
+  "files": {
+    "faq-rtp-2026-10-09.png": {
+      "sha256": "35544b4cb4e0110c06646eaf307577831acf59cdaca6f7d3a563d7489957553c",
+      "sourceSha256": "69a84554427cf113c3cc9b343e612277a4a1983f0ce81559be8a8165f9c685fa",
+      "crop": "1374x150+0+3827",
+      "edit": "cropped to the FAQ entries, below the live bets list"
+    }
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
