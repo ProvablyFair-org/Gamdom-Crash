@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "artifact": "rtp-montecarlo",
+    "game": "Gamdom Crash",
+    "method": "the published verifier on random game hashes; independent of the closed form",
+    "samples": 60000000,
+    "workers": 10,
+    "node": "v22.23.1",
+    "elapsedSeconds": 45.3
+  },
+  "oneXShare": {
+    "realized": 0.019998866666666667,
+    "exact": 0.02,
+    "standardError": 0.00001807392228230128,
+    "deviationInStandardErrors": -0.06
+  },
+  "agreement": {
+    "allWithin3SE": true,
+    "worstTarget": 3,
+    "worstDeviationInStandardErrors": -1.13
+  },
+  "table": [
+    {
+      "target": 1.01,
+      "wins": 58800068,
+      "pWin": 0.9800011333333334,
+      "realizedRtpPercent": 98.9801,
+      "closedFormRtpPercent": 98.98,
+      "standardErrorPercentagePoints": 0.0018,
+      "deviationInStandardErrors": 0.06
+    },
+    {
+      "target": 1.1,
+      "wins": 53901142,
+      "pWin": 0.8983523666666666,
+      "realizedRtpPercent": 98.8188,
+      "closedFormRtpPercent": 98.8167,
+      "standardErrorPercentagePoints": 0.0043,
+      "deviationInStandardErrors": 0.49
+    },
+    {
+      "target": 1.2,
+      "wins": 49333665,
+      "pWin": 0.82222775,
+      "realizedRtpPercent": 98.6673,
+      "closedFormRtpPercent": 98.6644,
+      "standardErrorPercentagePoints": 0.0059,
+      "deviationInStandardErrors": 0.49
+    },
+    {
+      "target": 1.5,
+      "wins": 39329835,
+      "pWin": 0.65549725,
+      "realizedRtpPercent": 98.3246,
+      "closedFormRtpPercent": 98.3311,
+      "standardErrorPercentagePoints": 0.0092,
+      "deviationInStandardErrors": -0.71
+    },
+    {
+      "target": 2,
+      "wins": 29399067,
+      "pWin": 0.48998445,
+      "realizedRtpPercent": 97.9969,
+      "closedFormRtpPercent": 98,
+      "standardErrorPercentagePoints": 0.0129,
+      "deviationInStandardErrors": -0.24
+    },
+    {
+      "target": 3,
+      "wins": 19530135,
+      "pWin": 0.32550225,
+      "realizedRtpPercent": 97.6507,
+      "closedFormRtpPercent": 97.6711,
+      "standardErrorPercentagePoints": 0.0181,
+      "deviationInStandardErrors": -1.13
+    },
+    {
+      "target": 5,
+      "wins": 11688270,
+      "pWin": 0.1948045,
+      "realizedRtpPercent": 97.4022,
+      "closedFormRtpPercent": 97.4096,
+      "standardErrorPercentagePoints": 0.0256,
+      "deviationInStandardErrors": -0.29
+    },
+    {
+      "target": 10,
+      "wins": 5831796,
+      "pWin": 0.0971966,
+      "realizedRtpPercent": 97.1966,
+      "closedFormRtpPercent": 97.2144,
+      "standardErrorPercentagePoints": 0.0382,
+      "deviationInStandardErrors": -0.47
+    },
+    {
+      "target": 20,
+      "wins": 2914991,
+      "pWin": 0.048583183333333335,
+      "realizedRtpPercent": 97.1664,
+      "closedFormRtpPercent": 97.1171,
+      "standardErrorPercentagePoints": 0.0555,
+      "deviationInStandardErrors": 0.89
+    },
+    {
+      "target": 50,
+      "wins": 1164475,
+      "pWin": 0.019407916666666667,
+      "realizedRtpPercent": 97.0396,
+      "closedFormRtpPercent": 97.0588,
+      "standardErrorPercentagePoints": 0.089,
+      "deviationInStandardErrors": -0.22
+    },
+    {
+      "target": 100,
+      "wins": 582258,
+      "pWin": 0.0097043,
+      "realizedRtpPercent": 97.043,
+      "closedFormRtpPercent": 97.0394,
+      "standardErrorPercentagePoints": 0.1266,
+      "deviationInStandardErrors": 0.03
+    },
+    {
+      "target": 1000,
+      "wins": 58145,
+      "pWin": 0.0009690833333333333,
+      "realizedRtpPercent": 96.9083,
+      "closedFormRtpPercent": 97.0219,
+      "standardErrorPercentagePoints": 0.4017,
+      "deviationInStandardErrors": -0.28
+    }
+  ]
+}

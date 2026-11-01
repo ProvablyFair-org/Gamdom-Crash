@@ -1,0 +1,196 @@
+{
+  "definition": "extra edge = 99% minus the game's return at the bet's cash-out, i.e. what Crash takes above the stated 1% house edge",
+  "coinUsd": 0.0006666666666666666,
+  "windows": [
+    {
+      "file": "data/feed-2026-09-21.csv",
+      "windowUtc": [
+        "2026-09-21T16:20:11.793Z",
+        "2026-09-21T17:26:15.946Z"
+      ],
+      "hours": 1.101,
+      "rounds": 149,
+      "bets": 3453,
+      "players": 76,
+      "wageredUsd": 107821,
+      "wageredPerHourUsd": 97917,
+      "largestPlayerSharePct": 77.23,
+      "largestTenPlayersSharePct": 96.7,
+      "winningBets": 950,
+      "reweightedWageringPctOfRecorded": 117.8,
+      "extraEdgePct": 0.9446,
+      "withoutLargestPlayer": {
+        "wageredUsd": 24546,
+        "wageredPerHourUsd": 22291,
+        "extraEdgePct": 0.6997
+      }
+    },
+    {
+      "file": "data/feed-2026-10-08.csv",
+      "windowUtc": [
+        "2026-10-08T21:02:49.368Z",
+        "2026-10-09T00:01:34.735Z"
+      ],
+      "hours": 2.979,
+      "rounds": 383,
+      "bets": 8395,
+      "players": 139,
+      "wageredUsd": 59707,
+      "wageredPerHourUsd": 20041,
+      "largestPlayerSharePct": 27.5,
+      "largestTenPlayersSharePct": 80.36,
+      "winningBets": 2287,
+      "reweightedWageringPctOfRecorded": 75.8,
+      "extraEdgePct": 1.147,
+      "withoutLargestPlayer": {
+        "wageredUsd": 43287,
+        "wageredPerHourUsd": 14530,
+        "extraEdgePct": 1.1296
+      }
+    },
+    {
+      "file": "data/feed-2026-10-26.csv",
+      "windowUtc": [
+        "2026-10-26T19:19:28.653Z",
+        "2026-10-28T15:06:17.506Z"
+      ],
+      "hours": 43.78,
+      "rounds": 5381,
+      "bets": 99119,
+      "players": 925,
+      "wageredUsd": 850279,
+      "wageredPerHourUsd": 19422,
+      "largestPlayerSharePct": 11.69,
+      "largestTenPlayersSharePct": 53.08,
+      "winningBets": 29046,
+      "reweightedWageringPctOfRecorded": 96.9,
+      "extraEdgePct": 1.1189,
+      "withoutLargestPlayer": {
+        "wageredUsd": 750865,
+        "wageredPerHourUsd": 17151,
+        "extraEdgePct": 1.1709
+      }
+    }
+  ],
+  "recording": {
+    "file": "data/feed-2026-10-26.csv",
+    "bets": 99119,
+    "wageredUsd": 850279,
+    "reweightedWageringPctOfRecorded": 96.9,
+    "extraEdgePct": 1.1189,
+    "range95Pct": [
+      1.005,
+      1.2464
+    ],
+    "rangeMethod": "players resampled, 2,000 resamples, seed 20261101",
+    "expectedReturnPct": 97.8811,
+    "effectiveHouseEdgePct": 2.1189,
+    "extraCostInRecordingUsd": 9514
+  },
+  "losingBetsToo": {
+    "kaplanMeierExtraEdgePct": 1.1197,
+    "winningBetsOnlyExtraEdgePct": 1.1189,
+    "stakeShareWithTargetAboveEveryCrashSeenPct": 0.099,
+    "note": "A bet that lost had a target above its round's crash point. Using that as well as the winning bets' cash-outs gives the same extra edge."
+  },
+  "check": {
+    "shorterRecordings": [
+      {
+        "file": "data/feed-2026-09-21.csv",
+        "bets": 3453,
+        "extraEdgePct": 0.9446
+      },
+      {
+        "file": "data/feed-2026-10-08.csv",
+        "bets": 8395,
+        "extraEdgePct": 1.147
+      }
+    ],
+    "allThreePooled": {
+      "bets": 110967,
+      "wageredUsd": 1017808,
+      "extraEdgePct": 1.098
+    },
+    "note": "The two shorter recordings are one and three hours in the evening, the 21 September one mostly a single player, so the estimate uses the 44-hour recording alone. The 8 October recording and the pooled figure fall inside its 95% range; the 21 September one is just below it."
+  },
+  "volume": {
+    "recording": {
+      "hours": 43.78,
+      "wageredUsd": 850279,
+      "wageredPerDayUsd": 466117,
+      "bets": 99119,
+      "usdPerBet": 8.58
+    },
+    "byUtcDay": {
+      "2026-10-26": {
+        "bets": 14520,
+        "wageredUsd": 111881
+      },
+      "2026-10-27": {
+        "bets": 53627,
+        "wageredUsd": 442320
+      },
+      "2026-10-28": {
+        "bets": 30972,
+        "wageredUsd": 296077
+      }
+    },
+    "sameHoursOnTwoDays": [
+      {
+        "hoursUtc": "20:00-24:00",
+        "2026-10-26": 105379,
+        "2026-10-27": 54219
+      },
+      {
+        "hoursUtc": "00:00-15:00",
+        "2026-10-27": 293825,
+        "2026-10-28": 295497
+      }
+    ],
+    "betIds": {
+      "source": "data/bet-ids.json",
+      "crashBetsPerDay": {
+        "window26to28Oct": 54349,
+        "from21Septo8Oct": 60551,
+        "from9Octto26Oct": 52061,
+        "from21Septo28Oct": 56196
+      },
+      "recordingVersus21Septo28Oct": 0.9671
+    }
+  },
+  "period": {
+    "from": "2026-01-02T00:00:00Z",
+    "to": "2026-11-01T00:00:00Z",
+    "days": 303
+  },
+  "cases": {
+    "low": {
+      "volume": "27 October 2026, the one full UTC day in the recording",
+      "extraEdge": "lower end of the 95% range",
+      "wageringPerDay": 442320,
+      "extraEdgePct": 1.005,
+      "extraCostPerDay": 4445,
+      "wageringSince2Jan": 134023015,
+      "extraCostSince2Jan": 1346883
+    },
+    "central": {
+      "volume": "the recording, 43.78 hours",
+      "extraEdge": "the recording",
+      "wageringPerDay": 466117,
+      "extraEdgePct": 1.1189,
+      "extraCostPerDay": 5215,
+      "wageringSince2Jan": 141233308,
+      "extraCostSince2Jan": 1580281
+    },
+    "high": {
+      "volume": "the recording's wagering per bet, at the highest bet rate in Gamdom's bet ids (21 September to 8 October)",
+      "extraEdge": "upper end of the 95% range",
+      "wageringPerDay": 519425,
+      "extraEdgePct": 1.2464,
+      "extraCostPerDay": 6474,
+      "wageringSince2Jan": 157385683,
+      "extraCostSince2Jan": 1961655
+    }
+  },
+  "note": "An estimate. The extra edge and the volume are both measured on the 43.78-hour recording of 26 to 28 October 2026, and assumed to hold from 2 January. The estimate uses expected values, not what players happened to win or lose in the recording."
+}

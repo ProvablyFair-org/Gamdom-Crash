@@ -1,0 +1,5 @@
+batch,target,bets,staked_coins,staked_usd,instant_before_coins,instant_after_coins,instant_delta_coins,rakeback_pct_of_stake,bets_with_own_read,sum_of_per_bet_reads_coins,daily_originals_wagered_delta_coins,counter_equals_stake
+B1@1.50x,1.50,25,37500,25.00,1,376,375,1,25,375,37500,true
+B2@2.00x,2.00,25,37500,25.00,376,751,375,1,25,375,37500,true
+B3@5.00x,5.00,26,39000,26.00,751,1141,390,1,25,375,39000,true
+B4@10.00x,10.00,25,37500,25.00,1141,1516,375,1,25,375,37500,true

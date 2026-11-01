@@ -1,0 +1,111 @@
+{
+  "formula": "RTP(x) = (1 - 1/MOD) * 0.98 * x / (x - 0.02), MOD = 100",
+  "method": "for each cash-out target x on the 0.01 grid, find the 52-bit value h at which the code's floored crash point first reaches x, and compare it with the algebraic boundary h* = ceil(2^52 (x-1)/(x-0.02))",
+  "gridTargets": {
+    "from": "1.01",
+    "to": "1000.00",
+    "step": "0.01",
+    "count": 99900
+  },
+  "crossingFoundInCode": 99900,
+  "crossingExactlyAtAlgebraicBoundary": 65957,
+  "largestOffsetInUnitsOf2pow52": 1,
+  "largestProbabilityMassMoved": 2.220446049250313e-16,
+  "targetsWithRtpBelow99Percent": 99900,
+  "holds": true,
+  "sampleTargets": [
+    {
+      "target": 1.01,
+      "hStar": 45490905326975,
+      "hCode": 45490905326975,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 1.1,
+      "hStar": 416999965497269,
+      "hCode": 416999965497269,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 1.2,
+      "hStar": 763321970740762,
+      "hCode": 763321970740762,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 1.5,
+      "hStar": 1521486360598141,
+      "hCode": 1521486360598141,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 2,
+      "hStar": 2274545266348736,
+      "hCode": 2274545266348736,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 3,
+      "hStar": 3022550085483555,
+      "hCode": 3022550085483555,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 5,
+      "hStar": 3617349098289555,
+      "hCode": 3617349098289555,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 10,
+      "hStar": 4061362389412271,
+      "hCode": 4061362389412271,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 20,
+      "hStar": 4282702348350322,
+      "hCode": 4282702348350322,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 50,
+      "hStar": 4415293752324016,
+      "hCode": 4415293752324016,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    },
+    {
+      "target": 100,
+      "hStar": 4459455522201231,
+      "hCode": 4459455522201232,
+      "offset": 1,
+      "probabilityMassMoved": 2.220446049250313e-16
+    },
+    {
+      "target": 1000,
+      "hStar": 4499186011463355,
+      "hCode": 4499186011463355,
+      "offset": 0,
+      "probabilityMassMoved": 0
+    }
+  ],
+  "oneXShare": {
+    "description": "share of rounds that end at exactly 1.00x: the instant bust (1 in 100) plus the rounds the floor puts at 1.00",
+    "exact": "1/100 + (99/100) * (1 - 0.98/0.99) = 1/100 + 1/100 = 2/100",
+    "value": 0.02
+  },
+  "limit": {
+    "description": "RTP as the target grows without bound",
+    "value": 0.9702
+  }
+}

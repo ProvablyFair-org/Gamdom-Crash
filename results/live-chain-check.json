@@ -1,0 +1,88 @@
+{
+  "liveRounds": {
+    "file": "data/rounds-2026-10-31-live.csv",
+    "rounds": 17,
+    "newestHash": "bce54d38d70950c25022aae6d143004dffa3d00eba7ce0eccde01fb61a256806",
+    "oldestHash": "97d125a3979be1c39b45d32b18fe2664b4683ca6730cea9300290c5918c6cfee"
+  },
+  "recomputed": {
+    "equal": 17,
+    "of": 17,
+    "mismatches": []
+  },
+  "links": {
+    "equal": 16,
+    "of": 16
+  },
+  "walkFromNewestLiveRound": {
+    "commitment": {
+      "source": "claims/help-fair/page-text-2026-10-09.txt",
+      "text": "The SHA256 of the final hash for Crash starting at game 5,257,547 is:",
+      "value": "1d75b6cfadffdfc7dea5b7ed2c463c909571430c8f08fd3d0042b66661a8e4fc"
+    },
+    "chainLengthStatedOnFairnessPage": 10000000,
+    "hashesWalked": 10500000,
+    "reachedCommitment": false,
+    "reachedCommitmentAfterHashes": null,
+    "reachedCapturedRound": null,
+    "note": "Every round on the committed chain reaches the commitment within the chain's stated length."
+  },
+  "committedChainLeft": {
+    "startGame": 5257547,
+    "newestCapturedRoundOnIt": {
+      "gameId": 12080359,
+      "time": "2026-10-09T00:01:34.735Z",
+      "timeField": "crash_seen_utc"
+    },
+    "hashesUsed": 6822812,
+    "chainLengthStatedOnFairnessPage": 10000000,
+    "hashesLeft": 3177188,
+    "rate": {
+      "from": {
+        "gameId": 12022932,
+        "time": "2026-09-19T11:41:44.418Z",
+        "timeField": "created_utc"
+      },
+      "to": {
+        "gameId": 12080359,
+        "time": "2026-10-09T00:01:34.735Z",
+        "timeField": "crash_seen_utc"
+      },
+      "roundsPerDay": 2942.9
+    },
+    "daysLeftAtThatRate": 1079.6,
+    "note": "Rounds still to be played on the committed chain at the newest captured round on it, by the chain length the fairness page states."
+  },
+  "laterRound": {
+    "file": "data/round-2026-11-01-verifier.json",
+    "hash": "339a1cb4cc968289185c1270eb7f97c28736d2fa454bb4db122a9e836a41fb56",
+    "reaches31OctRound": {
+      "livePosition": 1,
+      "afterHashes": 3294
+    },
+    "note": "A later round on the same chain as the 31 October rounds, which do not reach the published commitment within 10,500,000 hashes."
+  },
+  "switchDated": {
+    "file": "data/rounds-2026-10-26.csv",
+    "rounds26to28OctMetByTheWalk": 5381,
+    "of": 5381,
+    "metInGameOrder": true,
+    "newest26to28OctRound": {
+      "gameId": 12132124,
+      "startUtc": "2026-10-28T15:06:17.506Z",
+      "hashesBackFromNewest31OctRound": 7671
+    },
+    "oldest26to28OctRound": {
+      "gameId": 12126744,
+      "startUtc": "2026-10-26T19:19:28.653Z",
+      "hashesBackFromNewest31OctRound": 13051
+    },
+    "newestCapturedRoundOnCommittedChain": {
+      "gameId": 12080359,
+      "time": "2026-10-09T00:01:34.735Z",
+      "timeField": "crash_seen_utc"
+    },
+    "roundsFromOldest26OctRoundTo1NovRound": 16346,
+    "note": "The 26-28 October rounds lie on the walk back from the 31 October rounds, so they are on the new chain, which reaches neither the commitment nor any 19 September or 8 October round. The new chain was in use from game 12,126,744 at the latest; the committed chain was still in use at the newest round captured on 8-9 October."
+  }
+}

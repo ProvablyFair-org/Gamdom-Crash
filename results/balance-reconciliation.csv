@@ -1,0 +1,7 @@
+from,to,bets_placed,cash_outs,usdt_before,usdt_after,expected_delta_usdt,observed_delta_usdt,match
+baseline,after-B1@1.50x,25,18,200.06,202.06,2.00,2.00,true
+after-B1@1.50x,after-B2@2.00x,25,11,202.06,199.06,-3.00,-3.00,true
+after-B2@2.00x,after-B3@5.00x,26,9,199.06,218.06,19.00,19.00,true
+after-B3@5.00x,after-B4@10.00x,25,1,218.06,203.06,-15.00,-15.00,true
+after-B4@10.00x,final,0,0,203.06,203.06,0.00,0.00,true
+final,final+wait,0,0,203.06,203.06,0.00,0.00,true

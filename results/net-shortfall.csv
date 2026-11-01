@@ -1,0 +1,5 @@
+target,exact_rtp_pct,shortfall_vs_100_before_rakeback_pct,measured_instant_rakeback_pct,net_pct,net_shortfall_vs_100_pct,bets,wins,realised_return_pct
+1.50,98.3311,1.6689,1,99.3311,0.6689,25,18,108
+2.00,98,2,1,99,1,25,11,88
+5.00,97.4096,2.5904,1,98.4096,1.5904,26,9,173.0769
+10.00,97.2144,2.7856,1,98.2144,1.7856,25,1,40

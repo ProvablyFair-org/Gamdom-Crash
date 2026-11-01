@@ -1,0 +1,37 @@
+{
+  "start": {
+    "game_id": 12080359,
+    "hash": "28feb5a4eeda7c1ccb42cccd1c48c101b737a5c58d1454ed6a674a5c6ff46938",
+    "from": "data/rounds-2026-10-08.csv (newest round)"
+  },
+  "shownHashesCompared": {
+    "files": [
+      "data/rounds-2026-10-08.csv",
+      "data/rounds-2026-09-19.csv"
+    ],
+    "note": "every game in both files except the starting round itself",
+    "compared": 422,
+    "equal": 422,
+    "firstMismatches": [],
+    "stepsFromNewest8OctToOldest19Sep": 57427
+  },
+  "publishedCommitment": {
+    "source": "claims/help-fair/page-text-2026-10-09.txt",
+    "text": "The SHA256 of the final hash for Crash starting at game 5,257,547 is:",
+    "value": "1d75b6cfadffdfc7dea5b7ed2c463c909571430c8f08fd3d0042b66661a8e4fc",
+    "startGame": 5257547,
+    "stepsWalked": 6822812,
+    "walkedHashAtStartGame": "1d75b6cfadffdfc7dea5b7ed2c463c909571430c8f08fd3d0042b66661a8e4fc",
+    "equal": true
+  },
+  "realisedOverSpan": {
+    "games": "12022932-12080359",
+    "rounds": 57428,
+    "roundsAtOneX": 1085,
+    "shareAtOneXPct": 1.8893,
+    "exactShareAtOneXPct": 2,
+    "standardErrorPp": 0.0584,
+    "deviationInSe": -1.89,
+    "table": "results/realised-curve.csv"
+  }
+}
