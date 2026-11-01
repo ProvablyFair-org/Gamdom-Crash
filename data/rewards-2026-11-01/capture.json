@@ -1,0 +1,24 @@
+{
+  "what": "The test account's rewards state after Gamdom's October monthly rakeback period closed",
+  "account": "Gamdom user id 48213257, the test account used for the 8 October 2026 session; username masked",
+  "readUtc": "2026-11-01T05:23:18Z",
+  "readUtcSource": "HTTP Date header of the getAvailableRewards response: \"Sun, 01 Nov 2026 05:23:18 GMT\"",
+  "method": "Logged in, with Gamdom's Rewards page open in Chrome. The page's own requests were copied from DevTools (Network, Response, Copy response). Each file is the response body as copied, unedited.",
+  "files": {
+    "getAvailableRewards.json": {
+      "endpoint": "/client-api/reward/getAvailableRewards",
+      "sha256": "3c1864380a7b46ab2940346ae2e910a84ccaa75f52731a0749a77ccf1c515ea7"
+    },
+    "get-wallets.json": {
+      "endpoint": "/client-api/profile/get-wallets",
+      "sha256": "be18e3698a7568ef4ba80f57ad9549a9de7d18d9d88d8614df5f780861dd29ff",
+      "note": "read in the same session; its Date header was not recorded"
+    }
+  },
+  "shows": [
+    "One pending reward: instant_rakeback, 1,516 coins ($1.01 at 1 coin = $1/1500), status pending, created 2026-09-21T16:15:22.828Z. It held 1 coin before the 8 October session and 1,516 after it (1 + 101 bets x 15 coins), and has not moved since.",
+    "No weekly or monthly rakeback reward is pending. activeRewards, pendingFreeSpins and bonusEngineRewards are empty.",
+    "USDT balance 203,060,000 micro-units ($203.06), the balance the 8 October session ended on. Every other wallet is 0."
+  ],
+  "context": "The October monthly period closed at about 2026-11-01T00:00Z: the Rewards panel's monthly countdown read 23d 1h at 2026-10-08T22:51Z and 3d 10h at 2026-10-28T13:52Z, and a new 29d 18h period on 1 November (screenshots/rewards-panel-2026-11-01.png). The weekly for the session's own week ended on 12 October; it was checked at the time and showed nothing, but that check was not captured."
+}
