@@ -1,0 +1,461 @@
+Originals
+
+Casino
+
+Sports
+
+Rewards
+
+Affiliates
+
+Sign in
+Sign up
+
+x1.20
+
+x3.46
+
+x1.08
+
+x1.29
+
+x1.28
+
+x1.80
+
+x1.10
+
+x2.43
+
+x2.06
+
+x2.17
+
+x2.30
+
+x1.10
+
+x2.49
+
+x1.78
+
+x1.10
+
+x1.51
+
+x1.47
+
+x2.07
+
+x1.15
+
+x1.33
+
+x1.87
+Bet Amount
+min
+1/2
+x2
+max
+Cashout at
+x1.2
+x2.0
+x2.5
+x5.0
+
+Auto bet
+
+Login to Play
+Stop if bet is more than
+On win
+
+Return to base bet
+
+ 
+Return to base bet
+Increase by
+On loss
+
+Return to base bet
+
+ 
+Return to base bet
+Increase by
+[live bets list removed here: 11 lines of other players' names, multipliers and amounts]
+
+Crash
+
+Gamdom Originals
+100%
+GAMDOM ORIGINALS
+
+Description
+
+History
+
+Play Crash Game Online with Crypto
+
+Crash is one of the most exciting Gamdom Originals: a fast, provably fair multiplier game where every second counts. Watch the curve climb, pick your moment, and cash out before it crashes. With support for crypto and fiat,  there's no better place to play Crash than Gamdom.
+
+What Is Gamdom Crash?
+
+Gamdom Crash is built around a single rising multiplier. Before each round begins, you place your bet. The multiplier climbs from 1x upward: your job is to cash out before it crashes. Cash out in time, and your stake is multiplied by the value at that moment. Wait too long, and your bet is lost.
+
+There are no paylines, no reels, no complex rules. Just one decision: when do you pull out? Unlike traditional slots, you're in control. On Gamdom, you can place up to six bets simultaneously, each with its own cashout target.
+
+Adding a layer of tactical flexibility you won't find on most crash sites. Every round is independently verified through Gamdom's provably fair system, so you can confirm any result yourself.
+
+Crash Tech Overview
+
+Field
+
+	
+
+Info
+
+
+
+
+Software
+
+	
+
+Gamdom Originals
+
+
+
+
+Game Type
+
+	
+
+Specialty
+
+
+
+
+RTP
+
+	
+
+100% (up to $5,000 in wagers)
+
+
+
+
+Min Bet (USD)
+
+	
+
+$0.01
+
+
+
+
+Max Bet (USD)
+
+	
+
+$500,000
+
+
+
+
+Jackpot
+
+	
+
+Progressive **
+
+
+
+
+Max Win
+
+	
+
+$1,500,000.
+
+*Subject to change
+
+** No consolation payout for losers
+
+Crash RTP
+
+Crash pays out at 100% RTP for your first $5,000 in wagers, dropping to 99% thereafter, giving it one of the highest RTPs available in online crash games.
+
+Crash Bet Limits
+
+Stakes run from $0.01 up to $500,000 per round, making it accessible for casual players and high rollers alike.
+
+Crash Max Win
+
+The maximum profit you can earn from a single bet in this game is capped at $1,500,000.
+
+How Crash Works
+
+Every round of Crash follows the same structure. Here's what happens from the moment betting opens to the moment the game settles.
+
+Each round follows the same structure:
+
+Betting phase: A short window opens. You place your bet.
+
+Multiplier climb: The multiplier starts at 1x and rises.
+
+Crash point: At a random moment, the game crashes. Anyone who hasn't cashed out loses their stake.
+
+Settlement: If you cashed out in time, you receive your bet multiplied by the value at that moment.
+
+Gamdom uses a provably fair system. Before each round, the server generates a seed and publishes a hashed version of it.
+
+Crash Betting Mechanics
+
+Once you understand the round structure, the betting mechanics are straightforward. Here's how manual and auto cashout work in practice.
+
+The betting window is brief, and most rounds cycle in seconds. Set your bet manually or use Gamdom's preset chips. The multiplier doesn't follow a predictable curve: some rounds crash below 2x, others climb into the hundreds. Each round is independent; what happened in the last round has no bearing on the next.
+
+Manual mode means clicking to cash out while the multiplier is live. The value locks at the exact moment you click. Gamdom is optimised for low-latency play, so the gap between your decision and the recorded cashout is minimal.
+
+Crash Betting by Risk Level
+
+Your cash-out target determines your risk profile. Here's how to think about low, moderate, and high-risk approaches before you start.
+
+Low risk: Auto cashout at 1.2x–1.5x. Frequent small wins with minimal exposure. One crash below your target wipes several rounds of profit, so small fixed bets are essential.
+
+Moderate risk: Targets of 2x–5x. Higher multiplier per win, higher variance. Keep bets at 1–2% of your bankroll per round.
+
+High risk: Above 10x. Most rounds won't reach your target. Keep bets small and fixed. Never increase stakes to compensate for a losing streak.
+
+Auto Cashout Explained
+
+Auto cashout is one of Crash's most useful tools, removing reaction time entirely from the equation. Here's how to set it up and when to use it.
+
+Auto cashout removes the need to click during a live round. Set your target before the round begins, and the system exits automatically when that value is reached, provided the multiplier gets there before crashing.
+
+Auto cashout removes the need to click during a live round. Set your target before the round begins, and the system exits automatically when that value is reached, provided the multiplier gets there before crashing. If you don't set a target, the multiplier keeps climbing and you cash out manually at the moment you choose, locking in the value on screen at that instant.
+
+On Gamdom, enter your target in the auto cashout field in the betting panel. The setting stays active each round until you change it. Auto cashout is always required on Gamdom Crash. Conservative targets of 1.5x to 2x suit lower-risk play and help you avoid the temptation to hold too long. 
+
+Auto cashout is optional on Gamdom Crash. You can set a target and let the system exit automatically when the multiplier reaches it, or skip it and cash out manually with a click whenever you choose. Conservative targets of 1.5x to 2x suit lower-risk play and help you avoid the temptation to hold too long. Auto cashout doesn't guarantee wins. If the game crashes before your target, the bet is lost.
+
+Auto cashout is optional on Gamdom Crash. Set your target multiplier before the round begins, and the system exits automatically the moment that value is reached, provided the multiplier gets there before the round crashes. You can also cash out manually at any point before your target. For example, you might enter 5x in the Cashout At field, then decide not to wait and press Cash Out yourself at 2.5x instead; the round settles at whatever value you clicked, not the target you originally entered.
+
+On Gamdom, enter your target in the auto cashout field in the betting panel. The setting stays active each round until you change it, carrying over automatically to every following round. Conservative targets of 1.5x to 2x suit lower-risk play and help you avoid the temptation to hold too long.
+
+Auto cashout doesn't guarantee a win. If the round crashes before your target is reached (and you haven't cashed out manually first), the bet is lost.
+
+Auto Bet Explained
+
+Auto-Bet lets you set a bet size and a cashout target, then repeats that same bet automatically round after round, no manual clicking needed. You can set a stop threshold so the series halts if the next bet would exceed a set amount, and choose what happens after each result: return to your base bet, or increase it by a set amount or percentage, for wins and losses independently.
+
+Types Of Crash Casino Games
+
+Crash exists in several formats across different platforms. Here's how Gamdom's version compares to the broader category.
+
+Classic Crash follows the standard format: one bet, one curve, one crash point. Themed variations: rockets, planes, jets, apply a narrative layer but use the same core mechanic. Social variants add live chat, player stats, or leaderboards. Multi-bet formats like Gamdom's Crash allow up to six active bets per round, each with a different cashout target.
+
+How To Play Crash at Gamdom
+
+Getting started takes under five minutes. Follow the steps below to place your first bet.
+
+Step 1: Create your account. Sign up at Gamdom with your email, or link a Steam, Google, or Telegram account. Takes under two minutes.
+
+Step 2: Deposit. Gamdom supports Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Tether (USDT), Dogecoin (DOGE), Tron (TRX), and XRP, as well as fiat options such as USD, EUR, and CAD. Crypto withdrawals are fast and require no full banking details.
+
+Step 3: Place your bet. Set your stake, choose manual or auto cashout, and hit bet. You can run up to six bets simultaneously in a single round, each with its own cashout target.
+
+Step 4: Cash out. Watch the multiplier climb and cash out when you're ready, or let auto cashout do it for you.v
+
+Crash Gambling Strategy: Avoiding the Spiral
+
+No strategy eliminates the house edge, but how you manage your bankroll and cashout targets makes a real difference to how long you stay in the game and how much damage a bad run does.
+
+Wager 1 to 2% of Your Session Bankroll Per Round
+
+At $100, that's $1 to $2 per bet. Keeping stakes proportional protects you from exhausting your funds in a short losing run.
+
+Set a Stop-Loss and Stop-Win Before Your First Bet
+
+Gamdom's autobet settings enforce these automatically. Decide on your limits before you start and treat them as fixed, not flexible.
+
+Never Chase Losses
+
+Raising your stake after a bad run accelerates losses, not recoveries. Each round is independent: a streak of low crashes doesn't make a high one more likely next time.
+
+Keep Sessions Short
+
+The house edge compounds over time. Shorter sessions with defined limits are the most practical way to stay in control.
+
+Other Gamdom Originals
+
+Enjoyed Crash? The rush doesn't have to stop there. Gamdom Originals are built in-house with the same provably fair engine, fast rounds, and crypto-friendly betting. Whether you want card-based decisions, number picks, or pure multiplier chaos, there's something here for every kind of player:
+
+🔢 Keno: Follow this number selection game with customisable risk levels.
+
+🂡  Hilo: Bet on whether the next card beats or falls short of the previous one for chances at major payouts.
+
+𖥕 Roulette: Place your bet on red, black, or green and let the carousel decide your fate.
+
+💎 Plinko: Drop the ball and watch it bounce its way to thrilling multiplier rewards.
+
+💣 Mines: Navigate to safe tiles on a grid packed with hidden mines to reveal massive multipliers.
+
+🎲 Dice: Predict whether the result will roll over or under your target number to score a multiplier win.
+
+⚡ Limbo: Pick your target multiplier and win instantly with higher risk and bigger rewards.
+
+🌀 Twist: A progression-based multiplier game where you spin to fill three celestial circles (Planet, Moon, and Sun), building your multiplier with each segment until you decide to cash out (or push for bigger rewards).
+
+🎲 Pocket Dice: A fast-paced dice prediction game where you choose a number, bet over or under, and roll for multipliers across manual, auto, and risk modes.
+
+♠ Blackjack: Hit, stand, double, or split your way to 21 against the dealer.
+
+Is Gamdom Crash Worth Playing?
+
+If you want a fast, transparent crash game with real player agency, Crash at Gamdom is a strong choice. The multi-bet format lets you run up to six strategies in a single round. For the first $5,000 in wagers, Crash carries a 100% RTP with zero house edge, dropping to 99% thereafter.
+
+The main caveat applies to all crash games: rounds are short, the house edge is constant, and variance can be sharp. Go in with defined session limits and realistic cashout targets, and it's a fair, entertaining game. No crash game reliably delivers consistent returns.
+
+Responsible Gambling
+
+Crash rounds last seconds: your balance moves fast. Gamdom offers cool-off and self-exclusion options, as well as free support through GamCare, Gamblers Anonymous, and BeGambleAware. Crash is chance-based. Never gamble with money you can't afford to lose.
+
+FAQ
+Is crash gambling fair and random at Gamdom?
+
+Yes. Gamdom uses a provably fair RNG in which each crash point is determined by a cryptographic seed committed before the round and verified after it. No system can predict or influence outcomes.
+
+What are the benefits of auto cashout?
+
+Auto cashout locks in your target consistently, removing reaction time as a variable and preventing the impulse to hold longer than planned.
+
+Can I play Crash on mobile at Gamdom?
+
+Yes. Gamdom's Crash runs in mobile browsers on iOS and Android with no app required, and all features, including auto cashout and the fairness panel, are fully available.
+
+Can I place multiple bets in one round?
+
+Yes. Gamdom's Crash supports up to six simultaneous bets per round, each with its own cashout target.
+
+What is the RTP of Gamdom Crash?
+
+100% for the first $5,000 in wagers, then 99% thereafter, giving a house edge of 1% beyond the Zero Edge limit.
+
+Read More
+
+Info
+
+About Us
+Careers
+Partnership
+TOS
+Policies
+Provably Fair
+Official Sites
+Blog
+
+Originals
+
+Blackjack
+
+Keno
+
+Crash
+
+Plinko
+
+Mines
+
+Dice
+
+HiLo
+
+Limbo
+
+Pocket Dice
+
+Twist
+
+Roulette
+
+Casino
+
+Battles
+
+Casino
+
+Lobby
+
+Favorites
+
+Live Games
+
+Slots
+
+Originals
+
+Exclusive
+
+Providers
+
+Sports
+
+E-Sport Betting
+
+Match Betting
+
+Horse Racing
+
+Promotional
+
+Rewards
+
+Affiliates
+
+Redeem Code
+
+Promotions
+
+Support
+
+Help Center
+
+Contact Us
+
+FAQ
+
+Responsible Gambling
+
+Live Support
+
+Payments
+
+Deposit Methods
+How to Deposit
+How to Withdraw
+Supported Chains
+
+Gamdom is owned and operated by Moon Revolution Limitada., registration number: 3-102-903008, registered address: n. 400, La Ceiba Street, San Rafael district, County of Escazu, San JosÃ©, Costa Rica operates this website under licence number ALSI-152406043-FI issued by the Government of the Autonomous Island of Anjouan, Union of Comoros
+
+English
+
+ 
+English
+Bulgarian
+Czech
+Greek
+Spanish
+French
+Indonesian
+Japanese
+Georgian
+Korean
+Polish
+Portuguese
+Russian
+Serbian
+Thai
+Filipino
+Turkish
+Vietnamese
+Chinese

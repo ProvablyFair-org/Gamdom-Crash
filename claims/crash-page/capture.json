@@ -1,0 +1,66 @@
+{
+  "surface": "crash-page",
+  "url": "https://gamdom.com/crash",
+  "loggedIn": false,
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T11:47:52.686Z",
+    "title": "1.84x - Gamdom.com"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:41:49.462Z",
+    "httpStatus": 200,
+    "title": "4.83x - Gamdom.com",
+    "rule": "every line of the rendered page text matching /rtp|return to player|100%|99%|zero.?edge|house edge|\\$5,?000|\\$5k|50,?000|\\$50k|rakeback|rake back|per day|daily/i, whitespace normalised, compared line for line between the two captures",
+    "claimLinesFirstSeen": 11,
+    "claimLinesConfirmed": 11,
+    "identical": true
+  },
+  "claimLines": [
+    "100%",
+    "RTP",
+    "100% (up to $5,000 in wagers)",
+    "Crash RTP",
+    "Crash pays out at 100% RTP for your first $5,000 in wagers, dropping to 99% thereafter, giving it one of the highest RTPs available in online crash games.",
+    "No strategy eliminates the house edge, but how you manage your bankroll and cashout targets makes a real difference to how long you stay in the game and how much damage a bad run does.",
+    "The house edge compounds over time. Shorter sessions with defined limits are the most practical way to stay in control.",
+    "If you want a fast, transparent crash game with real player agency, Crash at Gamdom is a strong choice. The multi-bet format lets you run up to six strategies in a single round. For the first $5,000 in wagers, Crash carries a 100% RTP with zero house edge, dropping to 99% thereafter.",
+    "The main caveat applies to all crash games: rounds are short, the house edge is constant, and variance can be sharp. Go in with defined session limits and realistic cashout targets, and it's a fair, entertaining game. No crash game reliably delivers consistent returns.",
+    "What is the RTP of Gamdom Crash?",
+    "100% for the first $5,000 in wagers, then 99% thereafter, giving a house edge of 1% beyond the Zero Edge limit."
+  ],
+  "files": {
+    "page-text-2026-09-19.txt": {
+      "sha256": "36fb01841210de20a77fd40831de3481f389edc5f791a2fcf4238e08e2353571",
+      "sourceSha256": "82598df0b328890771fc4ed6085503eb4bf08d53527c5ac6aefa988d1b9d528f",
+      "edit": "live bets list removed (11 lines)"
+    },
+    "page-text-2026-10-09.txt": {
+      "sha256": "7a52556138c03c06e4457faa93e2a98e4c0daa7dd2e392c86d148af3960950f1",
+      "sourceSha256": "b31b1c5b23833569693be5f207ff32b63bb3220c829b7bea62da02d3ab5ed9ce",
+      "edit": "live bets list removed (68 lines)"
+    },
+    "screenshot-2026-09-19.png": {
+      "sha256": "f8f8df1006a0400f066e4264331dc91401f71bebb30eac5523513ee3ff274375",
+      "sourceSha256": "f8f8df1006a0400f066e4264331dc91401f71bebb30eac5523513ee3ff274375",
+      "edit": null
+    },
+    "rtp-table-2026-10-09.png": {
+      "sha256": "38154d17f5171cdb617f902cdd1c1cab5a1ce126fb9cf44e343d0c2c200071aa",
+      "sourceSha256": "38154d17f5171cdb617f902cdd1c1cab5a1ce126fb9cf44e343d0c2c200071aa",
+      "edit": null
+    },
+    "rtp-text-2026-10-09.png": {
+      "sha256": "cc0fb1d697f061f84c809c00882d7de05f0a162b31842f467ddf1b003abdb40e",
+      "sourceSha256": "a20e141412b941ef333d8023fe97baea71a4bdfbfd4c26f1f97a2a38914e55e4",
+      "crop": "1374x320+0+585",
+      "edit": "cropped to the claim, below the live bets list"
+    }
+  },
+  "withheldInPrivateArchive": {
+    "page.html (9 Oct)": "53404ba6e43a9b24ec354e6b9cd7a0574cba0e322eb94c050cf8676949d6c027",
+    "screenshot.png (9 Oct, full page with live bets list)": "713cdf878c1b6f715a881a89d790d3375ad372028b49295b528295697333a62a",
+    "claim-2.png (9 Oct, uncropped)": "a20e141412b941ef333d8023fe97baea71a4bdfbfd4c26f1f97a2a38914e55e4",
+    "claim-3.png (9 Oct, uncropped)": "69a84554427cf113c3cc9b343e612277a4a1983f0ce81559be8a8165f9c685fa"
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
