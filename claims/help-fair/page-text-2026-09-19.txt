@@ -1,0 +1,191 @@
+Originals
+
+Casino
+
+Sports
+
+Rewards
+
+Affiliates
+
+Sign in
+Sign up
+
+FAQ
+
+About Us
+
+Provably Fair
+
+Support
+
+Terms Of Service
+
+Responsible Gambling
+
+Refund Policy
+
+Privacy Policy
+
+Provably Fair
+How it works
+
+We have generated a chain of 10 million SHA256 hashes for each game, starting with a server secret that has been repeatedly fed the output of SHA256 back into itself 10 million times.
+
+The SHA256 of the final hash for Crash starting at game 5,257,547 is:
+1d75b6cfadffdfc7dea5b7ed2c463c909571430c8f08fd3d0042b66661a8e4fc
+
+The SHA256 of the final hash for Roulette starting at game 11,761,475 is:
+d2d9e10774075b7bb8a218613bb1acbb7a6fc0175fe8b20fad063a446a42a79d
+
+The SHA256 of the final hash for Hilo starting at game 18,975,566 is:
+e92f5d3c0446af16ee70a86010a917c77e801397ccf2bbf150654c774f1b1bf4
+
+By publicising it here we are preventing any ability to pick an alternate SHA256 chain. Now the game server is playing through this chain of hashes in reverse order, using these values to calculate the game results provably fair.
+
+How to verify
+
+Anyone can easily verify integrity of the chain. We're publishing a game's hash immediately after the game ends. By checking that the SHA256 hash of that game's hash is the game's hash of the previous game you can make sure that we were not able to modify the result.
+
+The sample code to generate games hashes and calculate Crash results can be found here.
+
+The sample code to generate games hashes and calculate Roulette results can be found here.
+
+The sample code to generate games hashes and calculate Hilo results can be found here.
+
+The sample code to generate games hashes and calculate Dice results can be found here.
+
+The sample code to generate games hashes and calculate Plinko results can be found here.
+
+The sample code to generate games hashes and calculate Mines results can be found here.
+
+The sample code to generate games hashes and calculate Keno results can be found here.
+
+The sample code to generate games hashes and calculate Pocket Dice results can be found here.
+
+The sample code to generate games hashes and calculate Limbo results can be found here.
+
+The sample code to generate games hashes and calculate Blackjack results can be found here.
+
+The sample code to generate games hashes and calculate Twist results can be found here.
+
+Fairness
+
+Bottom line is that results for all future games are already predefined and normally distributed due to math that backs up the strong cryptographic SHA256 function. We cannot manipulate this chain of results without the public noticing it.
+
+Info
+
+About Us
+Careers
+Partnership
+TOS
+Policies
+Provably Fair
+Official Sites
+Blog
+
+Originals
+
+Blackjack
+
+Keno
+
+Crash
+
+Plinko
+
+Mines
+
+Dice
+
+HiLo
+
+Limbo
+
+Pocket Dice
+
+Twist
+
+Roulette
+
+Casino
+
+Battles
+
+Casino
+
+Lobby
+
+Favorites
+
+Live Games
+
+Slots
+
+Originals
+
+Exclusive
+
+Providers
+
+Sports
+
+E-Sport Betting
+
+Match Betting
+
+Horse Racing
+
+Promotional
+
+Rewards
+
+Affiliates
+
+Redeem Code
+
+Promotions
+
+Support
+
+Help Center
+
+Contact Us
+
+FAQ
+
+Responsible Gambling
+
+Live Support
+
+Payments
+
+Deposit Methods
+How to Deposit
+How to Withdraw
+Supported Chains
+
+Gamdom is owned and operated by Moon Revolution Limitada., registration number: 3-102-903008, registered address: n. 400, La Ceiba Street, San Rafael district, County of Escazu, San JosÃ©, Costa Rica operates this website under licence number ALSI-152406043-FI issued by the Government of the Autonomous Island of Anjouan, Union of Comoros
+
+English
+
+ 
+English
+Bulgarian
+Czech
+Greek
+Spanish
+French
+Indonesian
+Japanese
+Georgian
+Korean
+Polish
+Portuguese
+Russian
+Serbian
+Thai
+Filipino
+Turkish
+Vietnamese
+Chinese

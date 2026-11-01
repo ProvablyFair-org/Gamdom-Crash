@@ -1,0 +1,56 @@
+{
+  "surface": "help-fair",
+  "url": "https://gamdom.com/help/fair",
+  "loggedIn": false,
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T11:48:25.990Z",
+    "title": "Provably Fair - How to Verify The Result Of The Games"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:42:14.031Z",
+    "httpStatus": 200,
+    "title": "Provably Fair - How to Verify The Result Of The Games",
+    "rule": "every line of the rendered page text matching /rtp|return to player|100%|99%|zero.?edge|house edge|\\$5,?000|\\$5k|50,?000|\\$50k|rakeback|rake back|per day|daily/i, whitespace normalised, compared line for line between the two captures",
+    "claimLinesFirstSeen": 0,
+    "claimLinesConfirmed": 0,
+    "identical": true
+  },
+  "claimLines": [],
+  "crashChainCommitment": {
+    "text": "The SHA256 of the final hash for Crash starting at game 5,257,547 is:",
+    "value": "1d75b6cfadffdfc7dea5b7ed2c463c909571430c8f08fd3d0042b66661a8e4fc",
+    "identicalOnBothDates": true
+  },
+  "crashVerifierLink": {
+    "href": "https://codesandbox.io/embed/crash-verifier-4nl2fc?hidenavigation=1&initialpath=%2F%3Fhash%3D&view=preview",
+    "presentFirstSeen": true,
+    "presentConfirmed": true,
+    "linkText": "The sample code to generate games hashes and calculate Crash results can be found here."
+  },
+  "files": {
+    "page-text-2026-09-19.txt": {
+      "sha256": "851bae9174949ad6a7e39c3cd97ee577d2bf1282a79db8cc44c6e0227af4b220",
+      "sourceSha256": "b066d1caff10d77f62e342919366890151b9b17b223375d5cd8352a0cb495006",
+      "edit": null
+    },
+    "page-text-2026-10-09.txt": {
+      "sha256": "b9f57dbc04dd49840d08eea87b514ca636f4840eee5d62624117297333650168",
+      "sourceSha256": "b9f57dbc04dd49840d08eea87b514ca636f4840eee5d62624117297333650168",
+      "edit": null
+    },
+    "screenshot-2026-09-19.png": {
+      "sha256": "73dd05f07ea33b27206115eee7b7fbc56112fa29d592d4ffc698376c25a244b4",
+      "sourceSha256": "73dd05f07ea33b27206115eee7b7fbc56112fa29d592d4ffc698376c25a244b4",
+      "edit": null
+    },
+    "screenshot-2026-10-09.png": {
+      "sha256": "73d388e8fc5b1de78959c8880620777d10de84fb3632b2a8181db8e5a4804d3a",
+      "sourceSha256": "73d388e8fc5b1de78959c8880620777d10de84fb3632b2a8181db8e5a4804d3a",
+      "edit": null
+    }
+  },
+  "withheldInPrivateArchive": {
+    "page.html (9 Oct)": "d3ccc40a2afb0a14963ed751600bc8e8dd160fdfc6d47dd6192822f925774ef2"
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
