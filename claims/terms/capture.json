@@ -1,0 +1,41 @@
+{
+  "surface": "terms",
+  "url": "https://gamdom.com/help/terms",
+  "loggedIn": false,
+  "firstSeen": {
+    "capturedUtc": "2026-09-19T13:25:18.185Z",
+    "title": "Our Casino Terms And Conditions"
+  },
+  "confirmedUnchanged": {
+    "capturedUtc": "2026-10-09T11:42:27.855Z",
+    "httpStatus": 200,
+    "title": "Our Casino Terms And Conditions",
+    "rule": "every line of the rendered page text matching /rtp|return to player|100%|99%|zero.?edge|house edge|\\$5,?000|\\$5k|50,?000|\\$50k|rakeback|rake back|per day|daily/i, whitespace normalised, compared line for line between the two captures",
+    "claimLinesFirstSeen": 0,
+    "claimLinesConfirmed": 0,
+    "identical": true
+  },
+  "claimLines": [],
+  "termSearch": "term-search.json: all 15 terms absent on both dates",
+  "files": {
+    "page-text-2026-09-19.txt": {
+      "sha256": "c45dc11f412d8bf6d5b56a7fe287a8169a4327e55ba3f1d8924dd9211c75eb9f",
+      "sourceSha256": "d6e5a32c574983a0f0aa1b95fd855526c875e3d63c2b3771c1862ba5a5bb12f4",
+      "edit": null
+    },
+    "page-text-2026-10-09.txt": {
+      "sha256": "3543a1d8c167aad4e7287a9d88287b7e85df52a2a3e2a80005ce3dd0f308c65b",
+      "sourceSha256": "3543a1d8c167aad4e7287a9d88287b7e85df52a2a3e2a80005ce3dd0f308c65b",
+      "edit": null
+    },
+    "screenshot-2026-10-09.png": {
+      "sha256": "616e8cab0193c0e10d85b18c5ec416b09f055ed30407c07faade318443dcdf2f",
+      "sourceSha256": "616e8cab0193c0e10d85b18c5ec416b09f055ed30407c07faade318443dcdf2f",
+      "edit": null
+    }
+  },
+  "withheldInPrivateArchive": {
+    "page.html (9 Oct)": "fd9bd027b2759701e3c1899590a721871d6cb707724626e083f9424936adbdaa"
+  },
+  "archiveNote": "sourceSha256 identifies the original capture file in the private archive; a file without an edit is a byte copy of it."
+}
