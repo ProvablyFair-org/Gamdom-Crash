@@ -1,0 +1,37 @@
+{
+  "sandbox_id": "4nl2fc",
+  "alias": "crash-verifier-4nl2fc",
+  "title": "crash-verifier",
+  "inserted_at": "2026-01-02T08:45:55",
+  "updated_at": "2026-01-02T08:54:54",
+  "files": {
+    "math.js": {
+      "bytes": 1688,
+      "sha256": "b2a4b9fa4fc8b2a530c894c34f03e71888c026dea0173a25b837d85ef141898e"
+    },
+    "App.js": {
+      "bytes": 3081,
+      "sha256": "b7272cb9a8529973c37760251bedb8c89b67d3824396295bc6d65cf2e9caaee2"
+    },
+    ".eslintrc.json": {
+      "bytes": 43,
+      "sha256": "a70dda8da92162c7e7a9d6857748fc072881bd9f66872f94a9557d210da6b51b"
+    },
+    "package.json": {
+      "bytes": 641,
+      "sha256": "01380e883586051a471d59b02a265fe97a8c75c4b54745e0e7ea0ef44e1cb199"
+    },
+    "index.js": {
+      "bytes": 261,
+      "sha256": "9a7adde694a80f000bc007b70b507adc717686d48084a51757508462e4421009"
+    },
+    "index.html": {
+      "bytes": 1607,
+      "sha256": "23bd3eaff17269c495b83fb9cdb8fd862cf2708b5a5585b23cd11521566c37f3"
+    },
+    "styles.css": {
+      "bytes": 435,
+      "sha256": "f48df63bad725ae78d43b1504470de2466649e9b1511d9cc2ca731fa9edb2ffd"
+    }
+  }
+}
