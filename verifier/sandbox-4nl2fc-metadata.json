@@ -1,0 +1,24 @@
+{
+  "note": "Fields copied from CodeSandbox's metadata for the sandbox, saved 19 Sep 2026. The full response (which also carries the author's display name and avatar) is kept in the private archive.",
+  "fullResponseSha256": "26cc478bacc1be0af23f9a117d7cf372b0d3a11b2a3ec6fe4531659b1b7ba125",
+  "id": "4nl2fc",
+  "alias": "crash-verifier-4nl2fc",
+  "title": "crash-verifier",
+  "template": "create-react-app",
+  "entry": "src/index.js",
+  "inserted_at": "2026-01-02T08:45:55",
+  "updated_at": "2026-01-02T08:54:54",
+  "privacy": 0,
+  "workspace": {
+    "id": "ws_C2fz4ww91TziShxUVtCa12",
+    "name": "gamdom"
+  },
+  "author": {
+    "username": "vlad15"
+  },
+  "npm_dependencies": {
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  },
+  "math_js_in_response_identical_to_saved_file": true
+}
