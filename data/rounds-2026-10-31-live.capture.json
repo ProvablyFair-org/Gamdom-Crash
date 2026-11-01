@@ -1,0 +1,10 @@
+{
+  "what": "17 consecutive Crash rounds taken from the live game's round history on 31 October 2026, newest first",
+  "fields": {
+    "position_newest_first": "1 is the newest round of the 17",
+    "hash": "the round hash the live game showed",
+    "crash_point_shown": "the crash point the live game showed for that round"
+  },
+  "notRecorded": "game ids and round times",
+  "checkedBy": "scripts/live-chain-check.mjs -> results/live-chain-check.json"
+}

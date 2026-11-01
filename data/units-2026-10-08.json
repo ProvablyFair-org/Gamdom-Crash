@@ -1,0 +1,31 @@
+{
+  "note": "Gamdom's own currency endpoint, read logged in at the start of the 8 Oct session. 1 COIN = cryptoPrice USD = 1/1500 USD; a $1.00 USDT stake appears in Gamdom's bet feed as bet 1500.",
+  "COINS": {
+    "readUtc": "2026-10-08T21:02:47.928Z",
+    "request": "POST /client-api/currency/getCurrency",
+    "requestBody": {
+      "displayCurrency": "USD",
+      "walletUnit": "COINS"
+    },
+    "response": {
+      "cryptoPrice": "0.0006666666666666666",
+      "name": "USD",
+      "rate": "1",
+      "symbol": "$"
+    }
+  },
+  "USDT": {
+    "readUtc": "2026-10-08T21:02:48.141Z",
+    "request": "POST /client-api/currency/getCurrency",
+    "requestBody": {
+      "displayCurrency": "USD",
+      "walletUnit": "USDT"
+    },
+    "response": {
+      "cryptoPrice": "1",
+      "name": "USD",
+      "rate": "1",
+      "symbol": "$"
+    }
+  }
+}

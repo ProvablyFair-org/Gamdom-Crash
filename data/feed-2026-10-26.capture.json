@@ -1,0 +1,92 @@
+{
+  "what": "Every bet in Gamdom's public Crash bet feed for 44 hours, 26 to 28 October 2026, as the logged-out gamdom.com/crash page receives each finished round with its bets, stakes and cash-outs",
+  "recordedBy": "ProvablyFair.org, recording the page's own round data for every round; game ids, hashes and crash points are in data/rounds-2026-10-26.csv",
+  "sourceFileSha256": "c5b694811091fa098a499d24d6e42f9f7057daf078da43fbd55b3cdab719037e",
+  "windowStartUtc": "2026-10-26T19:19:28.653Z",
+  "windowEndUtc": "2026-10-28T15:06:17.506Z",
+  "windowNote": "window start and end are the start times of the first and last rounds (43.78 hours)",
+  "firstGameId": 12126744,
+  "lastGameId": 12132124,
+  "rounds": 5381,
+  "roundsMissingInSpan": 0,
+  "roundsWithNoBets": 48,
+  "bets": 99119,
+  "players": 925,
+  "completeness": "Gamdom numbers every Crash bet in sequence. The bets in this window carry 99,143 consecutive numbers; 99,119 of them are in the feed (data/bet-ids.json).",
+  "fields": {
+    "game_id": "the round the bet was placed in (all in data/rounds-2026-10-26.csv)",
+    "player": "rank of the player's stake total in this window (p1 = largest); names and Gamdom user ids removed",
+    "stake_coins": "the stake in Gamdom's coin unit, 1 coin = $1/1500 (data/units-2026-10-08.json)",
+    "cashout": "the multiplier the bet cashed out at; blank if the bet lost (the feed never shows a losing bet's target)"
+  },
+  "wallets": {
+    "note": "Players bet from wallets in several currencies; the feed gives every stake in Gamdom's coin unit. No stake in any wallet is below 15 coins ($0.01), and 15 is the smallest stake in 8 of the 13 wallets, the Turkish lira wallet included. For the crypto wallets the feed's wallet amount divided by the stake stays within a few percent within each currency, moving with the coin's price. So the coin amount is the stake's value whatever the wallet.",
+    "byWallet": [
+      {
+        "wallet": "COINS",
+        "bets": 33554,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "SOL_LAMPORT",
+        "bets": 22984,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "USDT",
+        "bets": 9856,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "FIAT_TRY",
+        "bets": 6144,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "ETH_GWEI",
+        "bets": 5769,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "TRX_SUN",
+        "bets": 5623,
+        "smallestStakeCoins": 16
+      },
+      {
+        "wallet": "LTC_LITOSHI",
+        "bets": 5211,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "BTC_SATOSHI",
+        "bets": 5075,
+        "smallestStakeCoins": 16
+      },
+      {
+        "wallet": "XRP_DROP",
+        "bets": 3015,
+        "smallestStakeCoins": 21
+      },
+      {
+        "wallet": "BNB_JAGER",
+        "bets": 872,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "USDC",
+        "bets": 782,
+        "smallestStakeCoins": 15
+      },
+      {
+        "wallet": "DOGE_SHIBE",
+        "bets": 191,
+        "smallestStakeCoins": 16
+      },
+      {
+        "wallet": "FIAT_IDR",
+        "bets": 43,
+        "smallestStakeCoins": 19
+      }
+    ]
+  }
+}

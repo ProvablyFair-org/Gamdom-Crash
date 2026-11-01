@@ -1,0 +1,18 @@
+{
+  "what": "Every bet in Gamdom's public Crash bet feed for one window on 8 and 9 October 2026, as broadcast to every visitor of the Crash page (player_bet and cashed_out events)",
+  "windowStartUtc": "2026-10-08T21:02:49.368Z",
+  "windowEndUtc": "2026-10-09T00:01:34.735Z",
+  "firstGameId": 12079977,
+  "lastGameId": 12080359,
+  "rounds": 383,
+  "bets": 8395,
+  "players": 139,
+  "testAccountBets": 101,
+  "fields": {
+    "game_id": "the round the bet was placed in (all in data/rounds-2026-10-08.csv)",
+    "player": "rank of the player's stake total in this window (p1 = largest); names and Gamdom user ids removed; 'test' = the PF.org test account (data/our-bets-2026-10-08.csv)",
+    "stake_coins": "the stake in Gamdom's coin unit, 1 coin = $1/1500 (data/units-2026-10-08.json)",
+    "cashout": "the multiplier the bet cashed out at; blank if the bet lost (the feed never shows a losing bet's target)"
+  },
+  "windowNote": "window start is the first round announced in the feed, window end the last round's crash"
+}

@@ -1,0 +1,6 @@
+{
+  "what": "One Crash round hash, copied from Gamdom's Crash verifier page on 1 November 2026",
+  "hash": "339a1cb4cc968289185c1270eb7f97c28736d2fa454bb4db122a9e836a41fb56",
+  "notRecorded": "the round's game id, time and crash point",
+  "whyItCounts": "Each round's hash is the SHA-256 of the next round's hash, so only the operator holding the chain can produce a hash further along it. Walking back from this hash reaches the newest 31 October round (scripts/live-chain-check.mjs), so it is a later round on the same chain."
+}

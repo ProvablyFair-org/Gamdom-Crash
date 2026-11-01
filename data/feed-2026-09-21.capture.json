@@ -1,0 +1,17 @@
+{
+  "what": "Every bet in Gamdom's public Crash bet feed for one window on 21 September 2026, as broadcast to every visitor of the Crash page (player_bet and cashed_out events)",
+  "windowStartUtc": "2026-09-21T16:20:11.793Z",
+  "windowEndUtc": "2026-09-21T17:26:15.946Z",
+  "firstGameId": 12029361,
+  "lastGameId": 12029509,
+  "rounds": 149,
+  "bets": 3453,
+  "players": 76,
+  "fields": {
+    "game_id": "the round the bet was placed in",
+    "player": "rank of the player's stake total in this window (p1 = largest); names and Gamdom user ids removed",
+    "stake_coins": "the stake in Gamdom's coin unit, 1 coin = $1/1500 (data/units-2026-10-08.json)",
+    "cashout": "the multiplier the bet cashed out at; blank if the bet lost (the feed never shows a losing bet's target)"
+  },
+  "windowNote": "window start and end are the first and last bet in the feed"
+}

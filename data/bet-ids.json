@@ -1,0 +1,45 @@
+{
+  "what": "Gamdom gives every Crash bet a sequential number (its id in the public bet feed). The difference between two numbers is the count of Crash bets placed in between, by every player. Read from the three feed windows.",
+  "use": "scripts/damage-estimate.mjs uses these to compare the bet rate in the 26-28 October window with the five weeks from 21 September",
+  "absoluteIds": "left out with the other player identifiers; only spans and differences are given",
+  "windows": [
+    {
+      "window": "2026-09-21",
+      "fromUtc": "2026-09-21T16:20:11.793Z",
+      "toUtc": "2026-09-21T17:26:15.946Z",
+      "idsSpanned": 3453,
+      "betsInFeed": 3453,
+      "timesAre": "first and last bet"
+    },
+    {
+      "window": "2026-10-08",
+      "fromUtc": "2026-10-08T21:02:50.137Z",
+      "toUtc": "2026-10-09T00:01:46.418Z",
+      "idsSpanned": 8411,
+      "betsInFeed": 8411,
+      "timesAre": "first and last bet as the feed delivered them",
+      "note": "includes 16 bets in the round still running when the capture ended, which data/feed-2026-10-08.csv leaves out"
+    },
+    {
+      "window": "2026-10-26",
+      "fromUtc": "2026-10-26T19:19:28.653Z",
+      "toUtc": "2026-10-28T15:06:17.506Z",
+      "idsSpanned": 99143,
+      "betsInFeed": 99119,
+      "timesAre": "start of the first and last round",
+      "note": "the bet numbers the feed does not show are single numbers inside rounds"
+    }
+  ],
+  "between": [
+    {
+      "fromUtc": "2026-09-21T17:26:15.946Z",
+      "toUtc": "2026-10-08T21:02:50.137Z",
+      "idsAdvanced": 1038466
+    },
+    {
+      "fromUtc": "2026-10-09T00:01:46.418Z",
+      "toUtc": "2026-10-26T19:19:28.653Z",
+      "idsAdvanced": 926897
+    }
+  ]
+}
